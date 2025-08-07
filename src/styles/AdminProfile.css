@@ -1,0 +1,43 @@
+
+
+.profi-container{
+ 
+  margin: 0;
+  padding: 2rem;
+  width: 350px;
+  margin-left: 350px;
+}
+
+.car {
+  margin-top: -25rem;
+  display: flex;
+  align-items: center;
+  margin-right: -12rem;
+  gap: 20px;
+  padding: 20px;
+  background-color: #fff;
+  box-shadow: 0 0 15px rgba(0, 0, 0, 0.1);
+  border-radius: 12px;
+}
+
+.hover-car:hover {
+  transform: scale(1.02);
+  transition: 0.3s ease;
+  background-color: bisque;
+}
+
+.admi-image {
+  width: 150px;
+  height: 150px;
+  object-fit: cover;
+  border-radius: 50%;
+  border: 3px solid #f39c12;
+}
+
+.admi-details h2 {
+  margin-bottom: 10px;
+}
+
+.admi-details p {
+  margin: 4px 0;
+}
