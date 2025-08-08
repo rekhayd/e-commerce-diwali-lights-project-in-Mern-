@@ -148,4 +148,11 @@ npm run dev
 cd ../frontend
 npm start
 
+# Github Status
+
+![GitHub repo size](https://img.shields.io/github/repo-size/rekhayd/e-commerce-diwali-lights-project-in-Mern-)
+![GitHub stars](https://img.shields.io/github/stars/rekhayd/e-commerce-diwali-lights-project-in-Mern-?style=social)
+![GitHub forks](https://img.shields.io/github/forks/rekhayd/e-commerce-diwali-lights-project-in-Mern-?style=social)
+![GitHub issues](https://img.shields.io/github/issues/rekhayd/e-commerce-diwali-lights-project-in-Mern-)
+![GitHub last commit](https://img.shields.io/github/last-commit/rekhayd/e-commerce-diwali-lights-project-in-Mern-)
 
