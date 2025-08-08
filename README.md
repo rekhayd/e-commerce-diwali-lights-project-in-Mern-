@@ -22,9 +22,7 @@ If you are developing a production application, we recommend using TypeScript wi
 
 # 🪔 E-commerce Diwali Lights – MERN Stack Project
 
-<p align="center">
-  <img src="Screenshot 2025-08-07 180835" alt="Diwali Lights Banner" width="100%">
-</p>
+
 
 <p align="center">
   <b>A modern full-stack e-commerce web application for selling Diwali decorative lights, built with the MERN stack. Features a responsive React frontend, secure Node.js + Express backend, MongoDB database, JWT authentication, shopping cart, and light/dark mode support.</b>
@@ -102,6 +100,16 @@ This project demonstrates **real-world MERN stack development** with a focus on 
 
 |categories product|
 <img width="1920" height="1008" alt="Screenshot 2025-08-07 180918" src="https://github.com/user-attachments/assets/4b29bd06-e5e8-4fe8-acff-d764ad134188" />
+
+
+  |Product list|
+  
+  <img width="1920" height="1008" alt="Screenshot 2025-08-07 180822" src="https://github.com/user-attachments/assets/925bd93e-cc82-47cf-b0fc-e2d774ff3182" />
+
+
+|shop list|
+
+<img width="1920" height="1008" alt="Screenshot 2025-08-07 180806" src="https://github.com/user-attachments/assets/40012e23-b9ca-46ce-a531-08b7e4945025" />
 
 ---
 |Admin panel|
